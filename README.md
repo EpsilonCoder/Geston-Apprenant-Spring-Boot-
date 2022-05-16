@@ -15,4 +15,4 @@ Codé par Epsilon
             /  /'    /EpsilonCoder
 </pre>
 ## Demonstration
-<img src="cheikh.gif" width="100%" />
+<img src="cheikh.gif" width="100%" height="600px" />
